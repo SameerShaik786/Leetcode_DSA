@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
