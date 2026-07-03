@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0485-max-consecutive-ones](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0485-max-consecutive-ones) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Dynamic Programming
 |  |
