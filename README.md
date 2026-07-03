@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0035-search-insert-position) |
@@ -51,10 +52,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0015-3sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
