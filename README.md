@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
 ## Trie
 |  |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1314-matrix-block-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1314-matrix-block-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
