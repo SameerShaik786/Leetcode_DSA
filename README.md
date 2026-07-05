@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
 | [0680-valid-palindrome-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
