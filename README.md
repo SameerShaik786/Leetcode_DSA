@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0238-product-of-array-except-self) |
