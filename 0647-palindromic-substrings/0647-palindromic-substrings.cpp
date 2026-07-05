@@ -2,20 +2,20 @@ class Solution {
 public:
     int countSubstrings(string s) {
         int n = s.size();
-        unordered_map<string,int> m;
+        int ans = 0;
         for(int i =0;i<n;i++){
-            int odd = getAllPalindromes(s,i,i,m);
-            int even = getAllPalindromes(s,i,i+1,m);
+            ans += getAllPalindromes(s,i,i);
+            ans += getAllPalindromes(s,i,i+1);
         }
-        return m.size();
+        return ans;
     }
-    int getAllPalindromes(string s,int left,int right,unordered_map<string,int> &m){
+    int getAllPalindromes(string s,int left,int right){
+        int count = 0;
         while(left >=0 && right<s.size() && s[left]==s[right]){
-            string a = to_string(left)+"."+to_string(right);
-            if(m.count(a)==0) m[a] =1;
             left--;
             right++;
+            count++;
         }
-        return 0;
+        return count;
     }
 };
