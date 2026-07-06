@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0901-online-stock-span) |
 ## Sliding Window
 |  |
 | ------- |
@@ -207,4 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
