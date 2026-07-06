@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0918-maximum-sum-circular-subarray) |
@@ -146,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
 ## Sliding Window
 |  |
 | ------- |
