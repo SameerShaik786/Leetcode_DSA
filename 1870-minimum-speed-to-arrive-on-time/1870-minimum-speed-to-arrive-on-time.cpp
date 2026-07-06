@@ -12,6 +12,7 @@ public:
                 int rem = dist[i]-speed*first;
                 no_of_hours += first;
                 no_of_hours += (rem==0) ? 0 : 1;
+                if(no_of_hours > hour) return false;
             }
         }
         return no_of_hours <= hour;
