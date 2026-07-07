@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0139-word-break](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0139-word-break) |
