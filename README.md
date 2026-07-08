@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0113-path-sum-ii) |
+| [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -268,9 +269,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0113-path-sum-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
