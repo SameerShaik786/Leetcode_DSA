@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0567-permutation-in-string) |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0904-fruit-into-baskets](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1189-maximum-number-of-balloons) |
 ## Math
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0713-subarray-product-less-than-k](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0739-daily-temperatures) |
@@ -143,12 +146,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0056-merge-intervals) |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1552-magnetic-force-between-two-balls) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
@@ -206,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0621-task-scheduler) |
 ## Monotonic Queue
 |  |
 | ------- |
