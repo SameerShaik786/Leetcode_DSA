@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0101-symmetric-tree) |
 | [0113-path-sum-ii](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0113-path-sum-ii) |
 | [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
+| [1192-critical-connections-in-a-network](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Binary Tree
 |  |
 | ------- |
@@ -279,8 +280,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
+| [1192-critical-connections-in-a-network](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/0207-course-schedule) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/SameerShaik786/Leetcode_DSA/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
